@@ -1,0 +1,32 @@
+{
+  "name": "sudokusolver",
+  "description": "Solve any Sudoku puzzle in seconds.",
+  "version": "1.0.0",
+  "author": "Broglodyte",
+  "dependencies": {
+    "colors": "",
+    "lodash": ""
+  },
+  "keywords": [
+    "sudoku",
+    "solve",
+    "puzzle"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=0.1.90"
+  },
+  "main": "main.js",
+  "maintainers": [
+    "brog <broginator@gmail.com>"
+  ],
+  "directories": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "electron": "^1.3.3",
+    "mocha": "^3.2.0"
+  }
+}

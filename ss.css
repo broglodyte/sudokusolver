@@ -1,0 +1,25 @@
+input {
+	width:44px; 
+	height:44px;
+	font-size: 24pt;
+	text-align: center;
+	font-weight: bold;
+}
+input.button {
+	width: auto;
+	height: auto;
+	font-size: 12pt;
+//	text-align: center;
+}
+input.fromstring {
+	width: 100%;
+	height: auto;
+	font-size: 10pt;
+	text-align: left;
+}
+	
+input.ss {
+	width:44px; 
+	height:34px;
+	font-size: 20pt;
+}
